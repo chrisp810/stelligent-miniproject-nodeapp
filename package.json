@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "dependencies": {
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisp810/stelligent-miniproject-nodeapp.git"
+  },
   "license": "Apache 2.0",
   "description": "Stelligent mini-project by Chris Piepenbring"
 }
